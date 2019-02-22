@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1080851128688",
+    "firebase_url": "https://nuga-69f5a.firebaseio.com",
+    "project_id": "nuga-69f5a",
+    "storage_bucket": "nuga-69f5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080851128688:android:809d05a111d7db91",
+        "android_client_info": {
+          "package_name": "com.firebasePractice.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080851128688-6bm2o79uk2n58fq4qb3v0ube3467fj5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasePractice.www",
+            "certificate_hash": "75302d468c19f97529ed9e908966302f348ceae8"
+          }
+        },
+        {
+          "client_id": "1080851128688-db5fj559fsr2ien5975128jhoi5hlric.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtyd9mmocc80N8AfmfW8wAkmh9HwBWNH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080851128688-db5fj559fsr2ien5975128jhoi5hlric.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080851128688:android:86dcf02d319fef74",
+        "android_client_info": {
+          "package_name": "www.nugamedical.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080851128688-823kl6ic0t71v5b2l780ibtms6f74fhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.nugamedical.com",
+            "certificate_hash": "75302d468c19f97529ed9e908966302f348ceae8"
+          }
+        },
+        {
+          "client_id": "1080851128688-db5fj559fsr2ien5975128jhoi5hlric.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtyd9mmocc80N8AfmfW8wAkmh9HwBWNH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080851128688-db5fj559fsr2ien5975128jhoi5hlric.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
